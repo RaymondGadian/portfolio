@@ -1,0 +1,85 @@
+h1 {
+  color: blue;
+  font-size: 60px;
+}
+#raymond{
+  color: brown;
+}
+body {
+  background-image: url(https://mediaandmore.co.uk/wp-content/uploads/2020/06/web-development-banner.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+* {
+  font-weight: bold;
+}
+h3 {
+  color: rgb(255, 0, 119);
+  font-style: oblique;
+  text-shadow: black;
+}
+p {
+  color: crimson;
+  font-style: italic;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  font-size: 50px; 
+}
+ul {
+  color:blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+h2 {
+  color:darkcyan;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 35px;
+  text-shadow: 2px 2px black;
+}
+#education {
+  color: chocolate;
+}
+#kodego:hover {
+  color: darkgray;
+  margin-left: 100px;
+}
+body {
+  margin: 50px;
+}
+img {
+  border: 30px solid rgb(0, 89, 255);
+  border-radius: 50px;
+  margin-left: 300px;
+  box-shadow: 40px 40px 40px rgb(47, 0, 255);
+}
+img:hover {
+  border: 50px solid blue;
+  margin: 50px;
+  border-radius: 300px;
+  margin-left: 150px;
+}
+/* comment */
+hr {
+  height:fit-content;
+}
+a {
+  font-size: 40px;
+}
+#contact {
+  font-size: 2em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#name {
+    width: 250px; /* set the width to 300 pixels */
+    height: 50px; /* set the height to 50 pixels */
+  }
+  #email {
+    width: 250px;
+    height: 50px;
+  }
+  #message {
+    width: 300px;
+    height: 55px;
+  }
